@@ -17,5 +17,5 @@
 .idea/
 .DS_Store
 
-
+logs/
 .env.yaml
