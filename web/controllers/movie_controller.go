@@ -5,8 +5,8 @@ package controllers
 import (
 	"errors"
 
-	"gothic_app/business/models"
-	"gothic_app/business/services"
+	"gothic-app/business/models"
+	"gothic-app/business/services"
 
 	"github.com/kataras/iris/v12"
 )

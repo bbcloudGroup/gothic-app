@@ -3,7 +3,7 @@ package controllers
 import (
 	"github.com/kataras/iris/v12/context"
 	"github.com/kataras/iris/v12/mvc"
-	"gothic_app/datasource"
+	"gothic-app/datasource"
 )
 
 
@@ -17,7 +17,7 @@ func NewHelloController(admin datasource.Admin, cache datasource.Cache) HelloCon
 }
 
 //var helloView = mvc.View{
-//	Name: "gothic_app/index.html",
+//	Name: "gothic-app/index.html",
 //	Data: map[string]interface{}{
 //		"Title":     "Hello Page",
 //		"MyMessage": "Welcome to my awesome website",
@@ -68,8 +68,8 @@ func (c *HelloController) Get(ctx context.Context) mvc.Result {
 //
 //// GetBy returns a "Hello {name}" response.
 //// Demos:
-//// curl -i http://localhost:8080/gothic_app/iris
-//// curl -i http://localhost:8080/gothic_app/anything
+//// curl -i http://localhost:8080/gothic-app/iris
+//// curl -i http://localhost:8080/gothic-app/anything
 //func (c *HelloController) GetBy(name string) mvc.Result {
 //	if name != "iris" {
 //		return badName
@@ -81,7 +81,7 @@ func (c *HelloController) Get(ctx context.Context) mvc.Result {
 //
 //	// return mvc.Response{Text: "Hello " + name} OR:
 //	return mvc.View{
-//		Name: "gothic_app/name.html",
+//		Name: "gothic-app/name.html",
 //		Data: name,
 //	}
 //}

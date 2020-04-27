@@ -1,4 +1,4 @@
-module gothic_app
+module gothic-app
 
 go 1.13
 

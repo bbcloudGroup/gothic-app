@@ -2,7 +2,7 @@ package providers
 
 import (
 	"github.com/bbcloudGroup/gothic/di"
-	"gothic_app/business/services"
+	"gothic-app/business/services"
 )
 
 func RegisterServices(container di.Container) {

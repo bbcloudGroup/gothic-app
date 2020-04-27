@@ -2,7 +2,7 @@ package providers
 
 import (
 	"github.com/bbcloudGroup/gothic/di"
-	"gothic_app/datasource"
+	"gothic-app/datasource"
 )
 
 func RegisterDatabase(container di.Container) {

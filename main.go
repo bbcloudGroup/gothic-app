@@ -2,7 +2,7 @@ package main
 
 import (
 	"github.com/bbcloudGroup/gothic/bootstrap"
-	"gothic_app/boot"
+	"gothic-app/boot"
 )
 
 

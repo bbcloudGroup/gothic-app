@@ -6,8 +6,8 @@ import (
 	"github.com/kataras/iris/v12"
 	"github.com/kataras/iris/v12/context"
 	"github.com/kataras/iris/v12/mvc"
-	"gothic_app/web/controllers"
-	"gothic_app/web/middleware"
+	"gothic-app/web/controllers"
+	"gothic-app/web/middleware"
 )
 
 

@@ -2,7 +2,7 @@ package providers
 
 import (
 	"github.com/bbcloudGroup/gothic/di"
-	"gothic_app/web/controllers"
+	"gothic-app/web/controllers"
 )
 
 func RegisterController(container di.Container) {

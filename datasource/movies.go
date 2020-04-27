@@ -1,7 +1,7 @@
 package datasource
 
 import (
-	"gothic_app/business/models"
+	"gothic-app/business/models"
 )
 
 

@@ -2,8 +2,8 @@
 package services
 
 import (
-	"gothic_app/business/models"
-	"gothic_app/business/repositories"
+	"gothic-app/business/models"
+	"gothic-app/business/repositories"
 )
 
 // MovieService handles some of the CRUID operations of the movie datamodel.

@@ -4,7 +4,7 @@ import (
 	"errors"
 	"sync"
 
-	"gothic_app/business/models"
+	"gothic-app/business/models"
 )
 
 // Query represents the visitor and action queries.

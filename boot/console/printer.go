@@ -3,7 +3,7 @@ package console
 import (
 	"fmt"
 	"github.com/bbcloudGroup/gothic/logerr"
-	"gothic_app/datasource"
+	"gothic-app/datasource"
 	"time"
 )
 

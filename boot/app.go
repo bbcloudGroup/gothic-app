@@ -9,11 +9,11 @@ import (
 	"github.com/bbcloudGroup/gothic/logerr"
 	"github.com/bbcloudGroup/gothic/routes"
 	"github.com/bbcloudGroup/gothic/static"
-	"gothic_app/boot/console"
-	"gothic_app/boot/errors"
-	"gothic_app/boot/properties"
-	"gothic_app/providers"
-	"gothic_app/web"
+	"gothic-app/boot/console"
+	"gothic-app/boot/errors"
+	"gothic-app/boot/properties"
+	"gothic-app/providers"
+	"gothic-app/web"
 )
 
 
